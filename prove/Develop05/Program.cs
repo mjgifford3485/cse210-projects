@@ -2,6 +2,7 @@ using System;
 
 class Program
 {
+    //for added creatity, created a new activity and class called GuidedImageryActivity that provides a random image for the user to focus on for a set amount of time in seconds
     static void Main(string[] args)
     {
         while (true)
